@@ -1,0 +1,6 @@
+github "hackiftekhar/IQKeyboardManager"
+github "sunshinejr/Moya-ModelMapper" "7.0.0"
+github "Moya/Moya"
+github "Alamofire/AlamofireImage" ~> 3.3
+github "ReactorKit/ReactorKit"
+
